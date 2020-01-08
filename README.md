@@ -40,7 +40,9 @@ After Seeing Them Err](http://opim.wharton.upenn.edu/risk/library/WPAF201410-Alg
 * Week 3: Machine-in-the-loop Interactions
 	* Jan 27, [Principles of Mixed-Initiative User Interfaces](http://erichorvitz.com/chi99horvitz.pdf). Eric Horvitz. In Proceedings of CHI, 1999.
 	* Jan 29, [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608). Finale Doshi-Velez and Been Kim.   
-	_Additional reading_:   
+	_Additional reading_:  
+		* [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/doi/10.1145/3173574.3174156).  Ashraf Abdul, Jo Vermeulen, Danding Wang, Brian Y. Lim, Mohan Kankanhalli. CHI 2018.
+		* [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/abs/1901.04592). W. James Murdoch, Chandan Singh, Karl Kumbier, Reza Abbasi-Asl, Bin Yu. PNAS 2019.
 		* [Natural Language Translation at the Intersection of AI and HCI](https://dl.acm.org/citation.cfm?id=2798086). Spence Gree, Jeffrey Heer, Christopher D. Manning. Queue, 2015.    
 		* [Beyond binary choices: Integrating individual and social creativity](https://www.sciencedirect.com/science/article/pii/S1071581905000479). Gerhard Fischer, Elisa Giaccardi, Hal Eden, Masanori Sugimoto, Yunwen Ye. International Journal of Human-Computer Studies, 2005.  
 		* [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490), Zachary C. Lipton.    
@@ -71,6 +73,10 @@ After Seeing Them Err](http://opim.wharton.upenn.edu/risk/library/WPAF201410-Alg
 Criticism for Interpretability](http://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability.pdf). Been Kim, Rajiv Khanna, Oluwasanmi Koyejo. NeurIPS 2016.
 	* Feb 19, [Deep Weighted Averaging Classifiers](https://arxiv.org/abs/1811.02579). Dallas Card, Michael Zhang, Noah A. Smith.    
 	_Additional reading_:
+		* [Case-based explanation of non-case-based learning methods](https://www.ncbi.nlm.nih.gov/pubmed/10566351). Rich Caruana, Hooshang Kangarloo, John David
+N. Dionisio, Usha Sinha, David Johnson. AMIA 1999.
+		* [How Case Based Reasoning Explained Neural Networks: An XAI Survey of Post-Hoc Explanation-by-Example in ANN-CBR Twins](https://arxiv.org/abs/1905.07186). Mark T Keane, Eoin M Kenny. ICCBR 2019.
+		* [Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning](https://arxiv.org/abs/1803.04765). Nicolas Papernot, Patrick McDaniel. 
 		* [Interactive and Interpretable Machine Learning Models for Human Machine Collaboration](http://people.csail.mit.edu/beenkim/papers/BKimPhDThesis.pdf), Been Kim, PhD thesis.    
 	<span style="color:red">**Second proposal due on Feb 21.**</span>
 
@@ -116,7 +122,7 @@ Criticism for Interpretability](http://papers.nips.cc/paper/6300-examples-are-no
 	* Apr 8, presentation   
 	<span style="color:red">**Project peer feedback due on Mar 23.**</span> 
 
-* Week 14: Trust
+* Week 14: Human-AI interaction --- Trust
 	* Apr 13, [Trust in automation: Designing for appropriate reliance](https://journals.sagepub.com/doi/10.1518/hfes.46.1.50_30392). John Lee and Katrina See. Human factors, 2004.
 	* Apr 15, [Understanding the Effect of Accuracy on Trust in
 Machine Learning Models](http://mingyin.org/CHI-19/accuracy.pdf). Ming Yin, Jennifer Wortman Vaughan, and Hanna Wallach. CHI 2019.     
