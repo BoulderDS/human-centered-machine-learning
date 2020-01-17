@@ -86,8 +86,8 @@ N. Dionisio, Usha Sinha, David Johnson. AMIA 1999.
 	<span style="color:red">**Second proposal peer feedback due on Feb 28.**</span>   
 
 * Week 8: Counterfactual explanations
-	* Mar 3, [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399). Sandra Wachter, Brent Mittelstadt, Chris Russell.
-	* Mar 5, [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697). Ramaravind Kommiya Mothilal, Amit Sharma, Chenhao Tan. FAT* 2020.    
+	* Mar 2, [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399). Sandra Wachter, Brent Mittelstadt, Chris Russell.
+	* Mar 4, [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697). Ramaravind Kommiya Mothilal, Amit Sharma, Chenhao Tan. FAT* 2020.    
 	Additional reading   
 		* [The Hidden Assumptions Behind Counterfactual Explanations and Principal Reasons](https://arxiv.org/abs/1912.04930). Solon Barocas, Andrew D. Selbst, Manish Raghavan. FAT* 2020.
 		* [Efficient Search for Diverse Coherent Explanations](https://arxiv.org/abs/1901.04909). Chris Russell. FAT* 2019.
