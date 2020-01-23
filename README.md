@@ -44,9 +44,13 @@ After Seeing Them Err](http://opim.wharton.upenn.edu/risk/library/WPAF201410-Alg
 		* [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/doi/10.1145/3173574.3174156).  Ashraf Abdul, Jo Vermeulen, Danding Wang, Brian Y. Lim, Mohan Kankanhalli. CHI 2018.
 		* [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/abs/1901.04592). W. James Murdoch, Chandan Singh, Karl Kumbier, Reza Abbasi-Asl, Bin Yu. PNAS 2019.
 		* [Natural Language Translation at the Intersection of AI and HCI](https://dl.acm.org/citation.cfm?id=2798086). Spence Gree, Jeffrey Heer, Christopher D. Manning. Queue, 2015.    
+		* [A Review of User Interface Design for Interactive Machine Learning](https://www.repository.cam.ac.uk/bitstream/handle/1810/274032/TIIS_Special_Issue_IML_Survey.pdf). John J. Dudley and Per Ola Kristensson. ACM Transactions on Interactive Intelligent Systems. 2018.
 		* [Beyond binary choices: Integrating individual and social creativity](https://www.sciencedirect.com/science/article/pii/S1071581905000479). Gerhard Fischer, Elisa Giaccardi, Hal Eden, Masanori Sugimoto, Yunwen Ye. International Journal of Human-Computer Studies, 2005.  
-		* [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490), Zachary C. Lipton.    
-	<span style="color:red">**Replication playground/paper critique due on Jan 31.**</span>
+		* [The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490), Zachary C. Lipton.  
+		* [A Human-Centered Agenda for Intelligible Machine Learning](http://www.jennwv.com/papers/intel-chapter.pdf). Jennifer Wortman Vaughan and Hanna Wallach.  
+		* [Who is the “Human” in Human-Centered Machine Learning: The Case of Predicting Mental Health from Social Media](http://steviechancellor.com/wp-content/uploads/2019/09/HCML-CSCW-2019.pdf). Stevie Chancellor, Eric P.S Baumer, and Munmun De Choudhury. CSCW 2019.
+		* [Human Centered Systems in the Perspective of Organizational and Social Informatics](https://scholarworks.iu.edu/dspace/bitstream/handle/2022/1798/wp97-04B.html). Rob Kling and Leigh Star. 1997.   
+	<span style="color:red">**Replication playground/paper critique due on Jan 31; although I accept this homework one week late.**</span>
 
 
 * Week 4: Feature-based Explanations
@@ -137,6 +141,7 @@ Machine Learning Models](http://mingyin.org/CHI-19/accuracy.pdf). Ming Yin, Jenn
 		* [Equality of opportunity in supervised learning](https://arxiv.org/abs/1610.02413). Moritz Hardt, Eric Price, Nathan Srebro. NeurIPS 2016.
 		* [Inherent Trade-Offs in the Fair Determination of Risk Scores](https://arxiv.org/abs/1609.05807). Jon Kleinberg, Sendhil Mullainathan, Manish Raghavan. ITCS 2017.   
 		* [Algorithmic decision making and the cost of fairness](https://arxiv.org/abs/1701.08230). Sam Corbett-Davies, Emma Pierson, Avi Feller, Sharad Goel, Aziz Huq. KDD 2017. 
+		* [Fairness and Abstraction in Sociotechnical Systems](https://dl.acm.org/doi/10.1145/3287560.3287598). Andrew D. Selbst, danah boyd, Sorelle A. Friedler, Suresh Venkatasubramanian, Janet Vertesi. FAT* 2019.
 	
 * Week 16: Final Project Presentation  
 	* TBD, presentations (could be different from normal class time).   
