@@ -41,6 +41,8 @@ After Seeing Them Err](http://opim.wharton.upenn.edu/risk/library/WPAF201410-Alg
 	* Jan 27, [Principles of Mixed-Initiative User Interfaces](http://erichorvitz.com/chi99horvitz.pdf). Eric Horvitz. In Proceedings of CHI, 1999.
 	* Jan 29, [Towards A Rigorous Science of Interpretable Machine Learning](https://arxiv.org/abs/1702.08608). Finale Doshi-Velez and Been Kim.   
 	_Additional reading_:  
+		* [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf). Saleema Amershi, Dan Weld, Mihaela Vorvoreanu, Adam Fourney, Besmira Nushi, Penny Collisson,
+Jina Suh, Shamsi Iqbal, Paul N. Bennett, Kori Inkpen, Jaime Teevan, Ruth Kikin-Gil, and Eric Horvitz. CHI 2019.
 		* [Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda](https://dl.acm.org/doi/10.1145/3173574.3174156).  Ashraf Abdul, Jo Vermeulen, Danding Wang, Brian Y. Lim, Mohan Kankanhalli. CHI 2018.
 		* [Interpretable machine learning: definitions, methods, and applications](https://arxiv.org/abs/1901.04592). W. James Murdoch, Chandan Singh, Karl Kumbier, Reza Abbasi-Asl, Bin Yu. PNAS 2019.
 		* [Natural Language Translation at the Intersection of AI and HCI](https://dl.acm.org/citation.cfm?id=2798086). Spence Gree, Jeffrey Heer, Christopher D. Manning. Queue, 2015.    
