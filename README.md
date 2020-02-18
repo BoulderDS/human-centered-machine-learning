@@ -77,7 +77,7 @@ Jina Suh, Shamsi Iqbal, Paul N. Bennett, Kori Inkpen, Jaime Teevan, Ruth Kikin-G
 * Week 6: Example-based explanations
 	* Feb 17, [Examples are not Enough, Learn to Criticize!
 Criticism for Interpretability](http://papers.nips.cc/paper/6300-examples-are-not-enough-learn-to-criticize-criticism-for-interpretability.pdf). Been Kim, Rajiv Khanna, Oluwasanmi Koyejo. NeurIPS 2016.
-	* Feb 19, [Deep Weighted Averaging Classifiers](https://arxiv.org/abs/1811.02579). Dallas Card, Michael Zhang, Noah A. Smith.    
+	* Feb 19, [Deep Weighted Averaging Classifiers](https://arxiv.org/abs/1811.02579). Dallas Card, Michael Zhang, Noah A. Smith. FAT* 2019.    
 	_Additional reading_:
 		* [Case-based explanation of non-case-based learning methods](https://www.ncbi.nlm.nih.gov/pubmed/10566351). Rich Caruana, Hooshang Kangarloo, John David
 N. Dionisio, Usha Sinha, David Johnson. AMIA 1999.
@@ -126,7 +126,7 @@ N. Dionisio, Usha Sinha, David Johnson. AMIA 1999.
 * Week 13: Project midpoint presentation
 	* Apr 6, free time to work on projects
 	* Apr 8, presentation   
-	<span style="color:red">**Project peer feedback due on Mar 23.**</span> 
+	<span style="color:red">**Project peer feedback due on Apr 10.**</span> 
 
 * Week 14: Human-AI interaction --- Trust
 	* Apr 13, [Trust in automation: Designing for appropriate reliance](https://journals.sagepub.com/doi/10.1518/hfes.46.1.50_30392). John Lee and Katrina See. Human factors, 2004.
